@@ -14,6 +14,6 @@ GET https://kachbit.github.io/oba-prompt-api/oba-v1-es.txt
 analyzing the AI's responses. strengths and weaknesses provided by chatgpt.
 | version | tokens | strengths | weaknesses | rating | 
 |---|---|---|---|---|
-| v1-oba-es | 422 |  simple, concise, direct | submissive, naive, simple, passive, and slow (minded)  | alright |
-|  v1.5-oba-es | 218  | uses repetition to reinforce learning and improve retention, provides immediate feedback and corrections  | responses might feel slightly repetitive or rigid, lacking flexibility in adjusting to the user's pace or style of learning, could offer more varied prompts or exercises to engage the user  |  alright |
+| oba-v1-es | 422 |  simple, concise, direct | submissive, naive, simple, passive, and slow (minded)  | alright |
+|  oba-v1.5-es | 218  | uses repetition to reinforce learning and improve retention, provides immediate feedback and corrections  | responses might feel slightly repetitive or rigid, lacking flexibility in adjusting to the user's pace or style of learning, could offer more varied prompts or exercises to engage the user  |  alright |
 |   |   |   |   |   |

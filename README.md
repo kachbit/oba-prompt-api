@@ -3,7 +3,7 @@ Simple http request to retrieve the latest prompt for oba
 ## Retrieving:
 The url below retrieves the latest oba prompt for spanish
 ```http
-GET https://kachbit.github.io/oba-prompt-api/oba-v1-es.txt
+GET https://kachbit.github.io/oba-prompt-api/oba-v1p5-es.txt
 ```
 ## Bots
 **luka** - beginner. speaks english and teaches the spanish basics<br>
